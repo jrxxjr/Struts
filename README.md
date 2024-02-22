@@ -1,5 +1,5 @@
 Portuguese:
-﻿# Exemplo de utilização do Struts
+# Exemplo de utilização do Struts
 
 Exemplo de Aplicação Java Web utilizando o Struts Framework
 
