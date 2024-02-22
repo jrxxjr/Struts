@@ -8,7 +8,7 @@ Exemplo de Aplicação Java Web utilizando o Struts Framework
 3 - Vai executar os comandos Maven clean e depois install.
 4 - Depois vai usar o plugin do Tomcat para o Maven com os comandos 
 tomcat7:deploy e depois a cada novo deploy tomcat7:redeploy.    
-5 - No browser a url a ser chamada é a: 
+5 - No browser a url a ser chamada é a:   
 http://localhost:8080/struts/
 
 
